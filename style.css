@@ -1,0 +1,78 @@
+#Manali
+{
+	background-color: green;
+	color:yellow;
+	height:50%;
+	font-size:25pt;
+	text-align:center;
+}
+#content{
+height:75%;
+}
+#footer
+{
+	background-color: green;
+	color:yellow;
+	height:5%;
+	
+	text-align:center;
+}
+#menubar
+{
+	background-color:green;
+	list-style-type:none;
+	text-align:right;
+	height: 30px;
+	padding:0%;
+	margin-top: 10px;
+	
+}
+#menubar li{
+	display:inline;
+	background-color:black;
+	padding-top:50px;
+	margin:20px;
+	height: 20px;
+}
+#menubar li a{
+	color:white;
+	font-size:20pt;
+	text-transform:uppercase;
+	text-decoration:none;
+	
+}
+#contact_left
+{
+	width:50%;
+	height:70%;
+	float:left;
+	text-align:center;
+	
+}
+#contact_right
+{
+	width:50%;
+	height:70%;
+	float:right;
+	text-align:center;
+	
+}
+.form_table
+{
+	background-color:green;
+	padding:20px;
+	text-align:center;
+	margin:20px;
+	
+}
+.form_table tr th
+{
+	color:white;
+	font-size:15pt;
+}
+.contact-main{
+    height: 100vh;
+    width: 100%;
+    border: 1px solid red;
+    background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F03%2FManali_City.jpg&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FManali%2C_Himachal_Pradesh&tbnid=qsOLc00WEpB_NM&vet=12ahUKEwjk5NeQreb5AhWFNLcAHfbXB44QMygAegUIARDaAQ..i&docid=WnsfDMObd-vwBM&w=3492&h=2268&itg=1&q=manali&ved=2ahUKEwjk5NeQreb5AhWFNLcAHfbXB44QMygAegUIARDaAQ");
+}
